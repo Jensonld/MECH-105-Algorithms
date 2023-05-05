@@ -8,3 +8,5 @@
 * slope: slope from the linear regression y=mx+b
 * intercept: intercept from the linear regression y=mx+b
 * Rsquared: R^2, a.k.a. coefficient of determination
+#### Function:
+[fX, fY, slope, intercept, Rsquared] = linearRegression(x,y)
