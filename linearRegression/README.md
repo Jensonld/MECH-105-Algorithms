@@ -1,6 +1,6 @@
 ## Linear Regression function
-Compute the linear regression based on inputs:
-    * x: x-values for our data set
+#### Compute the linear regression based on inputs:
+* x: x-values for our data set
     * y: y-values for our data set
    Outputs:
     * fX: x-values with outliers removed
