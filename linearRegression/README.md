@@ -1,4 +1,4 @@
-##Linear Regression function
+## Linear Regression function
 ###   Compute the linear regression based on inputs:
 ###    1. x: x-values for our data set
 ###    2. y: y-values for our data set
