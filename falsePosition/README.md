@@ -1,5 +1,5 @@
 ## False Position Root Finding Function
-#### falsePosition using the false position root finding method to find a root given a function, initial bracketing guesses, and a stopping criterion.
+#### falsePosition uses the false position root finding method to find a root given a function, initial bracketing guesses, an optional stopping criterion, and an opitional maximum iterations setting.
 #### Inputs:
 * func - the function being evaluated
 * xl - the lower guess
